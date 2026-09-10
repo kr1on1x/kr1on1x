@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 
-<!--
-**kr1on1x/kr1on1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm George 👋
 
-Here are some ideas to get you started:
+### C++ / Low-Level / Linux / Embedded
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student focused on understanding
+how software works close to the hardware.
+
+---
+
+## 🧠 Currently learning
+
+- C++
+- C
+- Linux
+- Computer Architecture
+- Data Structures & Algorithms
+- Git & CMake
+- Embedded Systems
+
+## 🚀 Direction
+
+```text
+C++ / C
+    ↓
+Low-Level Programming
+    ↓
+Linux / Systems
+    ↓
+Embedded Systems
+    ↓
+Avionics & Aerospace
+    ↓
+Cybersecurity
