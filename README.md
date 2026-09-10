@@ -7,7 +7,6 @@
   <img src="./banner.png" width="100%">
 </p>
 
-# Hi, I'm Gosha 👋
 
 ### C++ / Low-Level / Linux / Embedded
 
