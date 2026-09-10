@@ -1,7 +1,9 @@
 
 
+## Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,js,git,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,js,git,sqlite,postgres" />
 </p>
 <p align="center">
   <img src="./banner.png" width="100%">
